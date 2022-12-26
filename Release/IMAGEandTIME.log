@@ -1,0 +1,58 @@
+﻿Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\Intel\AppData\Roaming
+CommonProgramFiles = C:\Program Files\Common Files
+COMPUTERNAME = ELLACELIAENYA
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+ForceIdentityAuthenticationType = Embedded
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\Intel
+JAVA_HOME = F:\java
+LOCALAPPDATA = C:\Users\Intel\AppData\Local
+LOGONSERVER = \\ELLACELIAENYA
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 2
+OneDrive = C:\Users\Intel\OneDrive
+OS = Windows_NT
+Path = F:\java;C:\MinGW\bin;C:\MinGW\mingw32\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\PuTTY\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Intel\AppData\Local\Microsoft\WindowsApps;C:\Users\Intel\.dotnet\tools;C:\MinGW\bin;C:\MinGW\mingw32\bin;F:\java\bin;
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\Intel\AppData\Local\Microsoft\VisualStudio\16.0_929a0122\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_IDENTIFIER = x86 Family 6 Model 58 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 3a09
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+ServiceHubLogSessionKey = DB97C90D
+SESSIONNAME = Console
+SignInWithHomeTenantOnly = True
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\Intel\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\Intel\AppData\Local\Temp
+USERDOMAIN = ELLACELIAENYA
+USERDOMAIN_ROAMINGPROFILE = ELLACELIAENYA
+USERNAME = Intel
+USERPROFILE = C:\Users\Intel
+VisualStudioDir = C:\Users\Intel\Documents\Visual Studio 2019
+VisualStudioEdition = Microsoft Visual Studio Community 2019
+VisualStudioVersion = 16.0
+VSAPPIDDIR = C:\Program Files\Microsoft Visual Studio\2019\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSSKUEDITION = Community
+windir = C:\WINDOWS
+
+  IMAGEandTIMEDlg.cpp
+  Generating code
+  1 of 717 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IMAGEandTIME.vcxproj -> C:\C-DIEZ-EXAMPLES\IMAGEandTIME\Release\IMAGEandTIME.exe

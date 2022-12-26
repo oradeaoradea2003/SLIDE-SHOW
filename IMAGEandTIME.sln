@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMAGEandTIME", "IMAGEandTIME.vcxproj", "{080323C2-519B-4F73-B939-D3150741D29B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupIMG2TIME", "..\SetupIMG2TIME\SetupIMG2TIME.vdproj", "{9D32D5FE-C703-485F-8543-F89B2007C7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080323C2-519B-4F73-B939-D3150741D29B}.Debug|x64.ActiveCfg = Debug|x64
+		{080323C2-519B-4F73-B939-D3150741D29B}.Debug|x64.Build.0 = Debug|x64
+		{080323C2-519B-4F73-B939-D3150741D29B}.Debug|x86.ActiveCfg = Debug|Win32
+		{080323C2-519B-4F73-B939-D3150741D29B}.Debug|x86.Build.0 = Debug|Win32
+		{080323C2-519B-4F73-B939-D3150741D29B}.Release|x64.ActiveCfg = Release|x64
+		{080323C2-519B-4F73-B939-D3150741D29B}.Release|x64.Build.0 = Release|x64
+		{080323C2-519B-4F73-B939-D3150741D29B}.Release|x86.ActiveCfg = Release|Win32
+		{080323C2-519B-4F73-B939-D3150741D29B}.Release|x86.Build.0 = Release|Win32
+		{9D32D5FE-C703-485F-8543-F89B2007C7C0}.Debug|x64.ActiveCfg = Debug
+		{9D32D5FE-C703-485F-8543-F89B2007C7C0}.Debug|x86.ActiveCfg = Debug
+		{9D32D5FE-C703-485F-8543-F89B2007C7C0}.Release|x64.ActiveCfg = Release
+		{9D32D5FE-C703-485F-8543-F89B2007C7C0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7828898-058C-4BD6-A694-BC923FEAEB44}
+	EndGlobalSection
+EndGlobal

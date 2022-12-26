@@ -1,0 +1,8 @@
+CDialog::OnSize(nType, cx, cy);
+    CRect r;
+    GetClientRect(&r);
+    CRect lb;
+    c_ListBox.GetWindowRect(&lb);
+    ScreenToClient(&lb);
+    c_ListBox.SetWindowPos(NULL, 0, 0, r.Width(), r.Height() - lb.top,
+                           SWP_NOMOVE | SWP_NOZORDER); 
